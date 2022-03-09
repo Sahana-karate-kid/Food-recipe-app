@@ -45,3 +45,12 @@
   grid-template-columns: 220px 220px;
   align-items: baseline;
 }
+
+.app_title{
+  background-color: rgb(62, 175, 240, 50);
+  margin: 0px;
+  padding: 0px;;
+  box-shadow: 10%,10%;
+  box-shadow: #02b0f08f;
+  
+}
